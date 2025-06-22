@@ -20,7 +20,7 @@ Gosto de criar páginas simples e entender como os sites funcionam.
 
 ## 🛠️ Tecnologia que estou aprendendo
 
-- HTML5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
 
 ---
 
